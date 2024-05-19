@@ -63,11 +63,11 @@ const Home = () => {
             </ul>
           </div>
         </div>
-        <div className="lg:h-50 lg:w-[50%]">
+        <div className="md:h-50 md:w-[50%]">
           <img
             src={image2}
             alt=" my profile"
-            className="rounded-full lg:ml-48 mx-auto w-2/3 shadow-gray-600 md:w-full"
+            className="rounded-full lg:ml-42 mx-auto w-2/3 shadow-gray-600 "
           />
         </div>
       </div>
