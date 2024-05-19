@@ -14,21 +14,21 @@ const About = () => {
         </div>
         <p className="text-xl mt-20 font-aria">
           I am a recent graduate with a strong background in Economics, but my
-          journey didn't stop there. Despite having no prior knowledge in web
-          development, I found my passion in creating apps and websites to
-          address real-world challenges faced by society.
+          journey didn't stop there.I am detail-oriented and results-driven
+          marketing enthusiast with comprehensive training in digital marketing,
+          equipped with hands-on experience gained through a rigorous course.
           <br></br>
           Driven by a desire to make a meaningful impact, I delved into the
           world of web development. What started as a curiosity quickly turned
           into a passion as I discovered the power of technology to address
-          societal issues. I am particularly interested in leveraging my skills
-          to build solutions that tackle pressing challenges faced by
-          communities.
+          marketing Issues. I am particularly interested in leveraging my skills
+          to build solutions that tackle pressing challenges faced by this
+          community.
         </p>
         <br></br>
 
         <p className="text-xl font-aria">
-          My goal is to continue using my skills in web development to develop
+          My goal is to continue using my skills in digital marketing to develop
           innovative solutions that address societal challenges and contribute
           to positive change. I am passionate about leveraging technology for
           social good and look forward to collaborating with like-minded
